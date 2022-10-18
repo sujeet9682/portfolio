@@ -20,11 +20,12 @@
                         <li><a href="#about">About</a></li>
                         <li><a href="#services">Services</a></li>
                         <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="https://cdn-icons-png.flaticon.com/128/2976/2976286.png" onclick="closemenu()"></a></li>
+                        
                     </ul>
+                    <!---
                     <li class="bars" onclick="openmenu()"> <img
                             src="https://cdn.iconscout.com/icon/premium/png-64-thumb/bars-6169068-5448286.png" alt="">
-                    </li>
+                    </li> -->
                 </nav>
             </div>
             <div class="header-text">
