@@ -40,7 +40,7 @@
         <div class="container">
             <div class="row">
                 <div class="about-col-1">
-                    <img src="Sk.jpg" alt="">
+                    <img src="user.jpg" alt="">
                 </div>
                 <div class="about-col-2">
                     <h1 class="sub-title">About me</h1>
@@ -117,7 +117,7 @@
             <h1 class="sub-title">My Work</h1>
             <div class="work-list">
                 <div class="work">
-                    <img src="work-1.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="#" class="bttn">
                             <h3>Basic html</h3>
@@ -127,7 +127,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-2.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task-2.git" class="bttn">
                             <h3>Webpage</h3>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task-3.git" class="bttn">
                             <h3>Webpage-2</h3>
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task4.git" class="bttn">
                             <h3>Webpage (Bootstrap)</h3>
@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task-5.git" class="bttn">
                             <h3>calc</h3>
@@ -163,7 +163,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/SIG-Web-task.git" class="bttn">
                             <h3>Timer</h3>
@@ -172,7 +172,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/Sig-web.git" class="bttn">
                             <h3>Validation Form</h3>
@@ -181,7 +181,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/Task-8.git" class="bttn">
                             <h3>Todo list</h3>
@@ -190,7 +190,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task.git" class="bttn">
                             <h3>CRUD Operation in js</h3>
@@ -199,7 +199,7 @@
                     </div>
                 </div>
                 <div class="work">
-                    <img src="work-3.png" alt="">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="">
                     <div class="layer">
                         <a href="https://github.com/sujeet9682/web-task10.git" class="bttn">
                             <h3>HTTP Request</h3>
