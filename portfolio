@@ -11,26 +11,26 @@
 </head>
 
 <body>
+    <div class="navb" >
+        <nav >
+            <button class="btm"><a class="logo" href="#header">Home</a></button>
+            <ul id="sidemenu" >
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                
+            </ul>
+            <!---
+            <li class="bars" onclick="openmenu()"> <img
+                    src="https://cdn.iconscout.com/icon/premium/png-64-thumb/bars-6169068-5448286.png" alt="">
+            </li> -->
+        </nav>
+    </div>
     <div id="header">
         <div class="container" >
-            <div class="navb" >
-                <nav >
-                    <button class="btm"><a class="logo" href="#header">Home</a></button>
-                    <ul id="sidemenu" >
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        
-                    </ul>
-                    <!---
-                    <li class="bars" onclick="openmenu()"> <img
-                            src="https://cdn.iconscout.com/icon/premium/png-64-thumb/bars-6169068-5448286.png" alt="">
-                    </li> -->
-                </nav>
-            </div>
             <div class="header-text">
-                <p class="aboutp">Web Developer</p>
-                <h1>Hi, I'm <span> Sujeet</span><br> welcoming you</h1>
+                <p class="aboutp"> <b>Web Developer</b> </p>
+                <h1>Hi, My name is <span> Sujeet</span><br> </h1>
             </div>
         </div>
     </div>
